@@ -1,0 +1,37 @@
+.box1{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 50px;
+    color: white;
+    margin: auto;
+    border-radius: 3px solid red;
+}
+.box2{
+    width: 80%;
+    height: 500px;
+    border: 3px solid red;
+    margin: auto;
+    margin-top: 100px;
+    background-color: black;
+}
+.bir{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+    height: 40%;
+    font-size:30px ;
+    text-align: center;
+}
+.ikki{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+    height: 40%;
+    font-size:30px ;
+    text-align: center;
+}
+body{
+    background-color: rgb(5, 85, 5);
+}
